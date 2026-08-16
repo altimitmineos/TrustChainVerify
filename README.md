@@ -200,7 +200,7 @@ TrustChainVerify/
 ├── .env                           # Environment variables
 ├── .gitignore                     # Git ignore rules
 ├── approvals.json                 # Off-chain approval storage
-└── README.md                      # This file
+└── README.md                      # Read Me
 ```
 
 ## ⚠️ Known Limitations
