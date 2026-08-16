@@ -1,0 +1,20 @@
+{
+  "1234:0x314186bb66861aabe49acb8b96c69ae8f1d8b615": {
+    "certificateId": "1234",
+    "recruiter": "0x314186bb66861aabe49acb8b96c69ae8f1d8b615",
+    "approved": true,
+    "timestamp": "2026-08-16T19:36:51.197892"
+  },
+  "1234:0x47569e4ec262d76a0372f5f76c7eb0629b2f88bb": {
+    "certificateId": "1234",
+    "recruiter": "0x47569e4ec262d76a0372f5f76c7eb0629b2f88bb",
+    "approved": true,
+    "timestamp": "2026-08-16T19:39:56.308580"
+  },
+  "1234:0xbef2205ef06ed73269e239ed47115cee06823a8f": {
+    "certificateId": "1234",
+    "recruiter": "0xbef2205ef06ed73269e239ed47115cee06823a8f",
+    "approved": true,
+    "timestamp": "2026-08-16T20:23:56.043943"
+  }
+}
