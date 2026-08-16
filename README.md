@@ -208,8 +208,7 @@ TrustChainVerify/
 1. **Block Query Limit**: Can only query last 10,000 blocks (~33 hours)
 2. **Scalability**: Event querying slows with many certificates
 3. **Off-Chain Approvals**: Centralized storage (JSON file)
-4. **No Revocation**: Cannot revoke certificates once issued
-5. **Network Dependency**: Requires Sepolia testnet
+4. **Network Dependency**: Requires Sepolia testnet
 
 ## 🔄 Future Improvements
 
